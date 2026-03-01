@@ -1,0 +1,8 @@
+node_modules/
+server/public/
+client/dist/
+server/finance.db*
+.env
+.env.local
+.env.*.local
+.DS_Store
